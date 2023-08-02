@@ -16,7 +16,12 @@
     }
   },
   {
-    "type": "image"
+    "type": "image",
+    "description": {
+      "en": "This is a <b>image app</b>. In general, game apps shouldn't need to use shared storage.",
+      "zh_CN": "这是一个<b>图像应用</b>。",
+      "zh_TW": "這是一個<b>圖像程式</b>。"
+    }
   },
   {
     "type": "maps",
@@ -46,6 +51,11 @@
     }
   },
   {
-    "type": "video"
+    "type": "video",
+    "description": {
+      "en": "This is a <b>video app</b>.",
+      "zh_CN": "这是一个<b>视频应用</b>。",
+      "zh_TW": "這是一個<b>視頻程式</b>。"
+    }
   }
 ]
